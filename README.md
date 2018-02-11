@@ -1,5 +1,5 @@
 # godes
-简单的游戏框架，后端GO，前端Unity
+简单的游戏框架，后端GO，前端Unity，非常简单，目前还是DEMO阶段
 
 ### 依赖库：msgpack mongodb ###
 * go get -u github.com/vmihailenco/msgpack
