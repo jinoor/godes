@@ -1,5 +1,9 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
 server/pkg/
+server/src/github.com
+server/src/golang.org
+server/src/gopkg.in
+server/src/sourcegraph.com
 client/Temp/
 client/Library/
 *.csproj
