@@ -8,7 +8,7 @@
 ### MongoDB ###
 * 安装mongodb，把bin路径添加到环境变量
 * 在随便一个盘新建目录如E:\mongodb\db
-* 把mgo_start.bta里的路径改成刚刚的路径，然后启动
+* 把mgo_start.bat里的路径改成刚刚的路径，然后启动
 
 ### 启动 ###
 go run server.go
