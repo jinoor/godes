@@ -1,0 +1,4 @@
+# 好友信息
+{FriendInfo,{Userid:int},{Name:string}}
+# 场景对象
+{EntityInfo,{Entityid:int},{EntityType:int},{X:int},{Y:int}}

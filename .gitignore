@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+server/pkg/
+client/Temp/
+client/Library/
+*.csproj
+*.sln
+client/obj/
+client/bin/
+client/ProjectSettings/
